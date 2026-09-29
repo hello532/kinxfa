@@ -1,0 +1,88 @@
+# KINX Linear Modules — full reference
+
+Source: https://hello532.github.io/kinxfa/
+Last built: 2026-09-30
+
+## Identity
+
+- Brand: KINX
+- Location: Dongguan, Guangdong, China
+- WhatsApp: +86 134 1117 7757
+- Email: kinxauto@gmail.com
+- Facebook: https://www.facebook.com/kinx.linearmodules
+- YouTube: https://www.youtube.com/@KINXFA
+
+## Published figures
+
+- Positioning accuracy: ±0.01 mm
+- Repeat accuracy: 0.003–0.01 mm
+- Stroke we have built and published: 500 mm
+- Dual-station body width: 68 mm
+- Mounting orientation: Horizontal or vertical
+- Design solution turnaround: 6 hours
+- Fastest delivery: as little as 24 hours
+
+## KK series models in production
+
+- KK50: KK5002
+- KK60: KK6005, KK6010, KK6020
+- KK86: KK8610, KK8620
+- KK100: KK10020 (expected early 2026)
+
+## Accuracy grades
+
+| Grade | Repeat accuracy | Positioning accuracy | Parallelism |
+| --- | --- | --- | --- |
+| C-grade KK60 | ±0.005 mm | 0.04–0.07 mm | 0.015–0.03 mm |
+| C-grade KK86 | ±0.0055 mm | 0.04–0.07 mm | 0.025–0.05 mm |
+| P-grade KK60 | ±0.003 mm | 0.02–0.025 mm | 0.01–0.015 mm |
+| P-grade KK86 | ±0.003 mm | 0.025–0.04 mm | 0.015–0.03 mm |
+
+## Stroke and body length
+
+| Size | Usable stroke | Body length | Note |
+| --- | --- | --- | --- |
+| KK50 | 70 / 120 / 170 / 220 mm | 150 / 200 / 250 / 300 mm | Standard strokes only — this size is not offered in custom lengths. |
+| KK60 | 20–810 mm | 120–900 mm | Any stroke in the range built to order. |
+| KK86 | 50–1310 mm | 180–1440 mm | Any stroke in the range built to order. |
+| KK100 | TBC mm | TBC mm | KK10020 is in development, expected early 2026 — dimensions on request. |
+
+## Motor matching
+
+| Size | Servo | Stepper |
+| --- | --- | --- |
+| KK40 | 50 / 100 W | 42 |
+| KK50 | 50 / 100 W | 42 |
+| KK60 | 50 / 100 / 200 / 400 W | 42 / 57 / 60 |
+| KK86 | 50 / 100 / 200 / 400 / 750 W | 57 / 60 / 86 |
+
+## Delivery
+
+- Standard KK60 / KK86, 50–100 units: 2–3 days; 1–2 days if rushed
+- Embedded GTH5 / GTH8 series: 3–4 days
+- Embedded GTH12 series: 5–6 days
+
+## Applications shipped
+
+- Vision labeling machines
+- Medical equipment
+
+## Limits we state ourselves
+
+- We do not supply original-brand packaging or brand authorisation papers.
+- KK modules are built to match the mounting dimensions and combined height of the equivalent sizes from THK, PMI, MISUMI and others listed on our KK series page. We still ask for your part number and drawing and confirm dimensions with you before you commit.
+- Long rails over 1.5 m are jointed — we state the joint position up front.
+- We are not a semiconductor-lithography class supplier.
+
+## Pages
+
+- https://hello532.github.io/kinxfa/how-to-choose.html
+- https://hello532.github.io/kinxfa/
+- https://hello532.github.io/kinxfa/linear-modules.html
+- https://hello532.github.io/kinxfa/kk-modules.html
+- https://hello532.github.io/kinxfa/kk50.html
+- https://hello532.github.io/kinxfa/kk60.html
+- https://hello532.github.io/kinxfa/kk86.html
+- https://hello532.github.io/kinxfa/multi-axis-systems.html
+- https://hello532.github.io/kinxfa/factory.html
+- https://hello532.github.io/kinxfa/contact.html

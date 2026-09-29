@@ -1,0 +1,34 @@
+# KINX Linear Modules
+
+> Factory-direct linear modules from Dongguan, Guangdong, China. Ball screw, belt-driven, slide table and multi-axis systems. Published positioning accuracy ±0.01 mm, repeat accuracy 0.003–0.01 mm, stroke to 500 mm. Design solution in about 6 hours, delivery in as little as 24 hours. Inquiry only — no cart, no public prices.
+
+## What this company makes
+
+- KK series single-axis modules: KK50 (KK5002), KK60 (KK6005 / KK6010 / KK6020), KK86 (KK8610 / KK8620), KK100 (KK10020 (expected early 2026)).
+- Ball screw, belt-driven and embedded (slide table) drives.
+- Multi-axis systems assembled from single axes; 68 mm dual-station bodies.
+- Custom stroke: KK60 20–810 mm, KK86 50–1310 mm. KK50 is standard strokes only.
+- Accuracy grades: C-grade and P-grade; P-grade repeat accuracy reaches ±0.003 mm.
+- Mounting dimensions match equivalent THK SKR / KR, PMI KM and MISUMI C-KS sizes. Dimensions are confirmed on the customer's drawing before order.
+
+## How to buy
+
+No cart and no published prices. Send stroke (mm), load and orientation, speed, accuracy, environment and duty cycle; KINX returns a drawing and a price. Design solution in about 6 hours; delivery in as little as 24 hours on stock-based builds.
+
+## Pages
+- [How to choose](https://hello532.github.io/kinxfa/how-to-choose.html): Sizing guide for linear modules: the four numbers that select a module (stroke, load and orientation, speed, accuracy), ball screw vs belt, and sealing…
+- [Home](https://hello532.github.io/kinxfa/): Factory-direct linear modules from Dongguan, China. Ball screw, belt-driven and slide table modules for testing machines, packaging equipment and…
+- [Linear Modules](https://hello532.github.io/kinxfa/linear-modules.html): Ball screw, belt-driven and slide table modules for linear motion, plus three-axis cantilever systems. OEM / ODM available, factory direct from…
+- [KK Series](https://hello532.github.io/kinxfa/kk-modules.html): KINX KK series single axis robots and linear modules, matching THK SKR / PMI KM / MISUMI mounting dimensions. KK5002 to KK8620 in production, C-grade…
+- [KK50 linear module](https://hello532.github.io/kinxfa/kk50.html): KINX KK50 linear module (KK5002). Standard strokes 70 / 120 / 170 / 220 mm, body length 150–300 mm, 50 / 100 W servo or 42 stepper. Mounting dimensions…
+- [KK60 linear module](https://hello532.github.io/kinxfa/kk60.html): KINX KK60 single-axis linear module: KK6005, KK6010, KK6020 in production. Stroke 20–810 mm built to order, C-grade and P-grade accuracy, servo 50–400…
+- [KK86 linear module](https://hello532.github.io/kinxfa/kk86.html): KINX KK86 single-axis linear module: KK8610 and KK8620 in production. Stroke 50–1310 mm built to order, C-grade and P-grade accuracy, servo up to 750…
+- [Multi-Axis](https://hello532.github.io/kinxfa/multi-axis-systems.html): Single-axis, XY and three-axis cantilever ball screw systems from KINX, plus a 68 mm wide dual-station module. Built and aligned in our Dongguan workshop.
+- [Factory](https://hello532.github.io/kinxfa/factory.html): Inside a linear module manufacturer in Dongguan: machining, assembly and inspection under one roof. ISO 9001:2015 quality system, patent wall on site…
+- [Contact](https://hello532.github.io/kinxfa/contact.html): Get a linear module quote from KINX. Design solution in 6 hours, delivery in as little as 24 hours. Send stroke, load, orientation and duty cycle by…
+
+## Contact
+- WhatsApp: +86 134 1117 7757
+- Email: kinxauto@gmail.com
+- Facebook: https://www.facebook.com/kinx.linearmodules
+- YouTube: https://www.youtube.com/@KINXFA
