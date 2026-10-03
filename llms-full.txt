@@ -1,7 +1,7 @@
 # KINX Linear Modules — full reference
 
 Source: https://hello532.github.io/kinxfa/
-Last built: 2026-09-30
+Last built: 2026-10-03
 
 ## Identity
 
@@ -84,5 +84,6 @@ Last built: 2026-09-30
 - https://hello532.github.io/kinxfa/kk60.html
 - https://hello532.github.io/kinxfa/kk86.html
 - https://hello532.github.io/kinxfa/multi-axis-systems.html
+- https://hello532.github.io/kinxfa/kk-replacement.html
 - https://hello532.github.io/kinxfa/factory.html
 - https://hello532.github.io/kinxfa/contact.html
